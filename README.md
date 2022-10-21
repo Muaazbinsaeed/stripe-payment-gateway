@@ -15,7 +15,7 @@ Testing of this application was done in an environment with node version `12.16.
 
 ### Clone the repo
 
-### `git clone https://github.com/EdraakSystems/esdev-stripe-integration.git`
+### `git clone https://github.com/Muaazbinsaeed/stripe-payment-gateway.git`
 
 ### Navigate to the main folder
 
