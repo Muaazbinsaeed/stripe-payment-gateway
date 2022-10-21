@@ -19,7 +19,7 @@ Testing of this application was done in an environment with node version `12.16.
 
 ### Navigate to the main folder
 
-### `cd esdev-stripe-payment`
+### `cd stripe-payment-gateway`
 
 ### Navigate to the server folder
 
