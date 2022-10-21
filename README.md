@@ -1,4 +1,4 @@
-# esdev-payment-integration-using-stripe
+# payment-integration-using-stripe
 
 A ecommerce application with stripe integration for payments
 
